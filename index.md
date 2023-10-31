@@ -11,7 +11,7 @@ For the test I choose `reversed` method, which inputs an array and returns *new*
 ```
 
 Out of 3 tests, only one of them didn't failed, `testReversedEmpty`, code of the tests:
-!(Image)[img/tf-1.png]
+![Image](img/tf-1.png)
 
 ## Failure inducing inputs:
 ```java
