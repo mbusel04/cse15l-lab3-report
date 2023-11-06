@@ -111,7 +111,7 @@ technical/plos/pmed.0020249.txt:        allow the identification of the challeng
 ```
 
 ## -c
-Instead of returning lines, shows only the count of how many lines contain input pattern:
+Instead of returning lines, shows only the count of how many lines contain the input pattern:
 #### Ex. 1:
 Run:
 ```bash
@@ -140,7 +140,7 @@ technical/plos/pmed.0020060.txt:11
 
 
 ## -o
-Instead of returning entire line, it returns only the matching part of input pattern:
+Instead of returning the entire line, it returns only the matching part of the input pattern:
 #### Ex. 1:
 Run:
 ```bash
@@ -174,7 +174,7 @@ technical/plos/pmed.0020232.txt:dec
 
 
 ## -l
-Instead of returning entire line, it returns the names of the files that contain it. 
+Instead of returning the entire line, it returns the names of the files that contain it. 
 #### Ex. 1:
 Run:
 ```bash
@@ -202,3 +202,4 @@ technical/plos/pmed.0020216.txt
 ...
 ```
 
+\* *All inline commands were referenced from https://en.wikibooks.org/wiki/Grep*
